@@ -3,13 +3,15 @@
 ## *Being a fellow competitive programmer , I know the importance of good editorials and solutions for beginners .*
 <h3 align="center">Due to the lack of editorial , I find my self struggling with the well renowned CSES problem set .</h3>
 
+
+<p>&nbsp;</p>
+
 <ul>
 	<li>Link to CSES problem set : https://cses.fi/problemset/</li>
 	<li>This repository will be updated regularly</li>
 	<li>I will add editorial along with codes for best output</li>
 </ul>
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 # How should you use this?
