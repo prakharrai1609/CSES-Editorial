@@ -1,7 +1,7 @@
-# CSES-Editorial
+# CSES-Editorial 🧠
 
-<h1 align="center" >Being a fellow competitive programmer , I know the importance of good editorials and solutions for beginners .</h1>
-<h3>Due to the lack of editorial , I find my self struggling with the well renowned CSES problem set .</h3>
+## Being a fellow competitive programmer , I know the importance of good editorials and solutions for beginners .
+<h3 align="center">Due to the lack of editorial , I find my self struggling with the well renowned CSES problem set .</h3>
 
 <ul>
 	<li>Link to CSES problem set : https://cses.fi/problemset/</li>
