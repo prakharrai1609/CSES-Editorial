@@ -18,23 +18,27 @@ Always check odd : if (n & 1) --> if n is odd this will be even cause LSB (least
 <details>
 <summary>Code</summary>
 <br>
-#include<bits/stdc++.h>
-#define ll long long 
-using namespace std;
+	
+	#include<bits/stdc++.h>
+	#define ll long long 
+	using namespace std;
  
-int main()
-{
-ios_base::sync_with_stdio(false); 
-cin.tie(NULL);
-  ll n; cin >> n;
-  cout << n << " ";
-  while (n != 1) {
-        if (n&1) {
-            n = n*3 + 1;
-            cout << n << " ";
-        } else {
-            n /= 2;
-            cout << n << " ";
-        }   
-  } 
+	int main() {
+	
+	ios_base::sync_with_stdio(false); 
+	cin.tie(NULL);
+	
+	ll n; cin >> n;
+	  cout << n << " ";
+	  
+	  while (n != 1) {
+		if (n&1) {
+		    n = n*3 + 1;
+		    cout << n << " ";
+		} else {
+		    n /= 2;
+		    cout << n << " ";
+		}   
+	  } 
+	}
 </details>
