@@ -1,11 +1,11 @@
 <details open>
-	<summary>Editorial</summary>
+	<summary><strong>Editorial</strong></summary>
 	<ol>
 		<li>Maintain a variable sum (sum = 0 initially)</li>
 		<li>While traversing the array , compare if the current number is greater than previous .</li>
 		<li>If the number is greater than the current number , add the difference to sum (sum += (current number - previous number)</li>
 	</ol>
-	1
+	
 </details>
 
 <details>
