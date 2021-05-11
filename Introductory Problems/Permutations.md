@@ -5,6 +5,9 @@
 		<li>If n < 4 and n > 1 , then output <strong>NO SOLUTION</strong></li>
 		<li>Otherwise , print all evens first and then odd , this will make sure that difference is > 1</li>
 	</ol>	
+	<br>
+	<h3>For ex. </h3>
+	<br>
 	<p>If n = 6 --> 2 4 6 1 3 5<br>If n = 7 , --> 2 4 6 1 3 5 7</p>
 
 </details>
