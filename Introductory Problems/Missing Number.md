@@ -1,10 +1,10 @@
-<detail>
+<details>
 <summary>Editorial</summary>
 <br>
 As we know , sum of first **N** numbers is **N * (N + 1) / 2** , let's call it sum1 . If we take the sum of the given **N - 1** numbers , let's call it sum2 . <br>
 Now , sum1 = sum2 + missing number , so missing numbers -> sum1 - sum 2 .
-</detail>
-<detail>
+</details>
+<details>
 <summary>Code</summary>
 #include<bits/stdc++.h>
 #define ll long long 
@@ -23,4 +23,4 @@ using namespace std;
 	    sum2 /= 2;
 	    cout << (sum2 - sum);
 	}
-</detail>
+</details>
