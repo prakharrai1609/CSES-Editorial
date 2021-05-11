@@ -1,7 +1,7 @@
 <details>
 <summary>Editorial</summary>
 <br>
-As we know , sum of first **N** numbers is **N * (N + 1) / 2** , let's call it sum1 . If we take the sum of the given **N - 1** numbers , let's call it sum2 . <br>
+As we know , sum of first **N** numbers is <strong>N * (N + 1) / 2</strong> , let's call it sum1 . If we take the sum of the given **N - 1** numbers , let's call it sum2 . <br>
 Now , sum1 = sum2 + missing number , so missing numbers -> sum1 - sum 2 .
 </details>
 <details>
