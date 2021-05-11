@@ -4,11 +4,13 @@
 It's a very straight forward question. 
 We have 2 conditions : 
 	1. When number is odd , number = number * 3 + 1
+	<br>
 	2. When number is even , number = number / 2;
 
 Tip :-
 -------
-	Always check odd : if (n & 1) --> if n is odd this will be even cause LSB (least significant or bit at ones place of odd number is 1 and even is 0) 
+Always check odd : if (n & 1) --> if n is odd this will be even cause LSB (least significant or bit at ones place of odd number is 1 and even is 0) 
+
 </details>
 
 <details>
