@@ -5,7 +5,7 @@
 		<li>Push the prices in a multiset and sort in decreasing order</li>
 		<li>Now find lower bound of every price in the multiset</li>
 			<ol>
-				<li>If the lower bound of multiset points to end of the set , print -1</li>
+				<li>If the lower bound of multiset points to end of the set , print -1 and continue</li>
 				<li>Otherwise lower bound of multiset will point to the exact price or the price just lower than that (since sorted in decreasing order)</li>
 				<li>Then erase the price value</li>
 			</ol>
