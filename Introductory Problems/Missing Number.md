@@ -6,6 +6,7 @@ Now , sum1 = sum2 + missing number , so missing numbers -> sum1 - sum 2 .
 </details>
 <details>
 <summary>Code</summary>
+	
 	#include<bits/stdc++.h>
 	#define ll long long 
 	using namespace std;
