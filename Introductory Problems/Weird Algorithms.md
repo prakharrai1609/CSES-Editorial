@@ -12,6 +12,10 @@ Tip :-
 -------
 <br>
 Always check odd : if (n & 1) --> if n is odd this will be even cause LSB (least significant or bit at ones place of odd number is 1 and even is 0) 
+<br>
+Why?
+Well modulo operation takes O(1) but its still a lot slower than operations like bitwise or (+ , - ) etc .
+
 
 </details>
 
@@ -29,7 +33,7 @@ Always check odd : if (n & 1) --> if n is odd this will be even cause LSB (least
 	cin.tie(NULL);
 	
 	ll n; cin >> n;
-	  cout << n << " ";
+	cout << n << " ";
 	  
 	  while (n != 1) {
 		if (n&1) {
