@@ -7,7 +7,6 @@
 		<li>Sort the array and take sum of the second value of the vector for first <strong>N</strong> values</li>
 	</ol>
 	<br>
-	<h4>Second</h4>
 
 </details>
 <br>
