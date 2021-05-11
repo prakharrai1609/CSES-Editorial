@@ -12,6 +12,7 @@
 <br>
 <details>
 	<summary>Code</summary>
+	
 	#include<bits/stdc++.h>
 	#define ll long long
 	#define vcll vector<ll>
