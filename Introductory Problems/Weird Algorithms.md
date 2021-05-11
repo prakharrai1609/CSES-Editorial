@@ -13,7 +13,8 @@ Tip :-
 <br>
 Always check odd : if (n & 1) --> if n is odd this will be even cause LSB (least significant or bit at ones place of odd number is 1 and even is 0) 
 <br>
-Why?
+##### Why?
+<br>
 Well modulo operation takes O(1) but its still a lot slower than operations like bitwise or (+ , - ) etc .
 
 
